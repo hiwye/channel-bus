@@ -1,6 +1,6 @@
 {
   "name": "channel-bus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple bus-style state management for real-time API bridges",
   "main": "index.js",
   "scripts": {},
