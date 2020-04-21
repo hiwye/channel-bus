@@ -12,6 +12,7 @@
     "api",
     "bridge"
   ],
+  "repository": "https://github.com/hiwye/channel-bus.git",
   "author": "Sebastian Walker <sebastian@sebastianwalker.org>",
   "license": "MIT",
   "dependencies": {
