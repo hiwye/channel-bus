@@ -13,6 +13,9 @@
     "bridge"
   ],
   "repository": "https://github.com/hiwye/channel-bus.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+  },
   "author": "Sebastian Walker <sebastian@sebastianwalker.org>",
   "license": "MIT",
   "dependencies": {
