@@ -1,0 +1,20 @@
+{
+  "name": "channel-bus",
+  "version": "1.0.0",
+  "description": "Simple bus-style state management for real-time API bridges",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "state",
+    "framework",
+    "bus",
+    "realtime",
+    "api",
+    "bridge"
+  ],
+  "author": "Sebastian Walker <sebastian@sebastianwalker.org>",
+  "license": "MIT",
+  "dependencies": {
+    "on-change": "^2.0.1"
+  }
+}
